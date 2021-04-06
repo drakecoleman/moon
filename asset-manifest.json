@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c82d7758.chunk.css",
+    "main.js": "/static/js/main.f5c10283.chunk.js",
+    "main.js.map": "/static/js/main.f5c10283.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bfed6d01.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bfed6d01.js.map",
+    "static/js/2.47355ac6.chunk.js": "/static/js/2.47355ac6.chunk.js",
+    "static/js/2.47355ac6.chunk.js.map": "/static/js/2.47355ac6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c82d7758.chunk.css.map": "/static/css/main.c82d7758.chunk.css.map",
+    "static/js/2.47355ac6.chunk.js.LICENSE.txt": "/static/js/2.47355ac6.chunk.js.LICENSE.txt",
+    "static/media/bgMoon.17e6219f.png": "/static/media/bgMoon.17e6219f.png",
+    "static/media/moon-1.658227d5.mp4": "/static/media/moon-1.658227d5.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfed6d01.js",
+    "static/js/2.47355ac6.chunk.js",
+    "static/css/main.c82d7758.chunk.css",
+    "static/js/main.f5c10283.chunk.js"
+  ]
+}
